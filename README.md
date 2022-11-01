@@ -18,7 +18,7 @@ This is a simple project written in python to solve sudoku puzzles using the dep
 
 # Usage
 
-The puzzle at this current moment need to be declard as global array with the variable name puzzle. This array will be a two-dimenisonal array with each row of the array corresponding to a row in the sudoku puzzle. An example can be seen below:
+The puzzle at this current moment needs to be declared as global array with the variable name puzzle. This array will be a two-dimenisonal array with each row of the array corresponding to a row in the sudoku puzzle. An example can be seen below:
    
   
 <br>  
