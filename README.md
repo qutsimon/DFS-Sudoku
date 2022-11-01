@@ -21,9 +21,17 @@ This is a simple project written in python to solve sudoku puzzles using the dep
 The puzzle at this current moment needs to be declared as global array with the variable name puzzle. This array will be a two-dimenisonal array with each row of the array corresponding to a row in the sudoku puzzle. An example can be seen below:
    
   
-<br>  
+</br>  
 <div align=center>
 
 ![Example of puzzle](/img/puzzleexample.png?raw=true)
 
 </div>
+
+</br>
+
+* Running the script
+
+```
+py solver.py
+```
